@@ -1,12 +1,30 @@
-## Hi there 👋
+<img src="https://avatars.githubusercontent.com/u/94644747?s=200&v=4">
 
-<!--
+# What are we
 
-**Here are some ideas to get you started:**
+We are the [not-existing-organization](https://github.com/not-existing-organization?type=source) and we focus on Open Source projects.
+You can find anything in between, Developemnt, Design, Documentation, Testing, Security, etc.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# Who are we
+
+Well, we are a group of developers, designers, and testers.
+You can be us, you can make this not-existing-organization better by contactingme at [not-existing-email](mailto:not.existing.organization@gmail.com?subject=Hello%20again)
+
+# Our Mission
+
+The not-existing-organization is a community of developers, designers, and testers that we are focusing on developing software opensource with the intent of upskiling individuals that just getting started or delivering code to users that are interested on OSS.
+
+# Contribute
+
+## Way 1
+
+Talk about it, if you re not the right person to get involved but yoy know someone, share it. Share it on your social media or elsewhere.
+
+## Way 2
+
+Open a new Issue with your Project Idea, and we will will love to have it onboard.
+We ove colaboaration. it takes 2 mins to jod down an idea, together ce can make it reality.
+
+## Way 3
+
+You might not have an existing idea. Dont worry, we have plenty, Open a new issue with your name and your strengths and we would love to have a catchup; Lets see where this journey takes us.
