@@ -2,17 +2,17 @@
 
 # What are we
 
-We are the [not-existing-organization](https://github.com/not-existing-organization?type=source) and we focus on Open Source projects.
+We are the [non-existing-organization](https://github.com/non-existing-organization?type=source) and we focus on Open Source projects.
 You can find anything in between, Developemnt, Design, Documentation, Testing, Security, etc.
 
 # Who are we
 
 Well, we are a group of developers, designers, and testers.
-You can be us, you can make this not-existing-organization better by contactingme at [not-existing-email](mailto:not.existing.organization@gmail.com?subject=Hello%20again)
+You can be us, you can make this non-existing-organization better by contactingme at [non-existing-email](mailto:non.existing.organization@gmail.com?subject=Hello%20again)
 
 # Our Mission
 
-The not-existing-organization is a community of developers, designers, and testers that we are focusing on developing software opensource with the intent of upskiling individuals that just getting started or delivering code to users that are interested on OSS.
+The non-existing-organization is a community of developers, designers, and testers that we are focusing on developing software opensource with the intent of upskiling individuals that just getting started or delivering code to users that are interested on OSS.
 
 # Contribute
 
