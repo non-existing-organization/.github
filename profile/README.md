@@ -1,5 +1,3 @@
-<img src="https://avatars.githubusercontent.com/u/94644747?s=200&v=4">
-
 # What are we
 
 We are the [non-existing-organization](https://github.com/non-existing-organization?type=source) and we focus on Open Source projects.
