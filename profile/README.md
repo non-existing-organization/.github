@@ -1,28 +1,16 @@
-# What are we
+"Non Existing Organization" is a unique and unconventional name for an organization that speaks to its philosophy of breaking away from traditional norms and exploring new ideas. Despite the name, the organization seeks to make a tangible impact by fostering a culture of creativity, innovation, and collaboration among its members.
 
-We are the [non-existing-organization](https://github.com/non-existing-organization?type=source) and we focus on Open Source projects.
-You can find anything in between, Developemnt, Design, Documentation, Testing, Security, etc.
+---
 
-# Who are we
+# What Are We
 
-Well, we are a group of developers, designers, and testers.
-You can be us, you can make this non-existing-organization better by contactingme at [non-existing-email](mailto:non.existing.organization@gmail.com?subject=Hello%20again)
+We are a forward-thinking organization that believes in breaking away from traditional norms and exploring new ideas. Our goal is to foster a culture of creativity, innovation, and collaboration among our members, with the aim of making a tangible impact in the world.
+
+# Who Are We
+
+We are a diverse group of individuals from various backgrounds and disciplines, including software development, design, research, and marketing. What unites us is our shared passion for pushing boundaries and challenging the status quo.
 
 # Our Mission
 
-The non-existing-organization is a community of developers, designers, and testers that we are focusing on developing software opensource with the intent of upskiling individuals that just getting started or delivering code to users that are interested on OSS.
+Our mission is to create a community of innovators and changemakers who are not afraid to think outside the box and explore new possibilities. Through collaboration and experimentation, we aim to develop innovative solutions to real-world problems and make a positive impact on society. We believe that by fostering a culture of creativity and innovation, we can inspire others to join us in creating a better future.
 
-# Contribute
-
-## Way 1
-
-Talk about it, if you re not the right person to get involved but yoy know someone, share it. Share it on your social media or elsewhere.
-
-## Way 2
-
-Open a new Issue with your Project Idea, and we will will love to have it onboard.
-We ove colaboaration. it takes 2 mins to jod down an idea, together ce can make it reality.
-
-## Way 3
-
-You might not have an existing idea. Dont worry, we have plenty, Open a new issue with your name and your strengths and we would love to have a catchup; Lets see where this journey takes us.
