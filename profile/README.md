@@ -1,4 +1,4 @@
-![banner](https://raw.githubusercontent.com/non-existing-organization/.github/main/neo-gitorg-banner.png)
+![banner](https://github.com/non-existing-organization/.github/raw/main/neo-gitorg-banner1.png)
 
 "Non Existing Organization" is a unique and unconventional name for an organization that speaks to its philosophy of breaking away from traditional norms and exploring new ideas. Despite the name, the organization seeks to make a tangible impact by fostering a culture of creativity, innovation, and collaboration among its members.
 
