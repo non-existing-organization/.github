@@ -14,3 +14,7 @@ We are a diverse group of individuals from various backgrounds and disciplines, 
 
 Our mission is to create a community of innovators and changemakers who are not afraid to think outside the box and explore new possibilities. Through collaboration and experimentation, we aim to develop innovative solutions to real-world problems and make a positive impact on society. We believe that by fostering a culture of creativity and innovation, we can inspire others to join us in creating a better future.
 
+
+---
+
+Non Existing Organization projects adopt the Non Existing Organization [Code of Conduct](https://github.com/non-existing-organization/.github/blob/main/CODE_OF_CONDUCT.md)
